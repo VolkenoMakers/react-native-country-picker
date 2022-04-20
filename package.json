@@ -1,0 +1,38 @@
+{
+  "name": "@volkenoMakers/react-native-country-picker",
+  "version": "1.0.0",
+  "description": "A react native drag and drop module developped by volkeno",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "yarn run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolkenoMakers/react-native-country-picker.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "country-picker",
+    "react-native-country-picker",
+    "volkeno",
+    "country",
+    "babacarMbengue12"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*"
+  ],
+  "author": "VolkenoMakers",
+  "devDependencies": {
+    "@types/react-native": "^0.66.10",
+    "typescript": "^4.5.4",
+    "@typescript-eslint/parser": "5.20.0",
+    "@typescript-eslint/eslint-plugin": "5.20.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VolkenoMakers/react-native-country-picker/issues"
+  }
+}
